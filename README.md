@@ -2,9 +2,11 @@
 ペナントシミュレーション３の続きをバージョンアップしています。
 
 右側のReleaseもしくは以下に最新版があるので、そちらを確認してください。  
-[最新版はこちら](https://github.com/penasimureal/Penanto3/releases/tag/%E3%83%9A%E3%83%8A%E3%83%B3%E3%83%88%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%93)
+[最新版はこちら](https://github.com/penasimureal/Penanto3/releases/tag/%E3%83%9A%E3%83%8A%E3%83%B3%E3%83%88%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%93)  
 
-
+■要望はXか、GithubのIssueへ  
+X：[こちらから](https://x.com/penasimureal)  
+issue：[こちらから](https://github.com/penasimureal/Penanto3/issues)  
 
 ■設計思想  
 もともとのゲームの更新が終わってしまったので、内容を引き継ぎ、UI等は変えないままシミュレーションゲームを維持したまま、追加機能を実装。
