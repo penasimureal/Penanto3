@@ -1,13 +1,14 @@
 # ペナントシミュレーション３の続き
 ペナントシミュレーション３の続きをバージョンアップしています。
 
-右側のReleaseもしくは以下に最新版があるので、そちらを確認してください。  
-<img width="402" height="155" alt="image" src="https://github.com/user-attachments/assets/88074a3b-a254-48c3-8734-17a5828d7435" />
+右側のReleaseもしくは以下に最新版があるので、そちらを確認してください。（赤枠のところ）
+<img width="1286" height="302" alt="image" src="https://github.com/user-attachments/assets/75a791cf-35c2-4734-b5c3-b516fa186537" />
+
 
 ■適用の仕方
 ダウンロードしたファイルを、ペナントシミュレーション3.4.11フォルダの下においてください。  
 以下のようなイメージです。パッチファイルを起動すれば、ペナントシミュレーション.jarファイルが更新されます。  
-現状は.exeファイルへの対応は未対応です。
+現状は.exeファイルへの対応は未対応です。  
 <img width="258" height="222" alt="image" src="https://github.com/user-attachments/assets/067f343f-8831-4de7-a0a9-477a088ddb2f" />
 
 ■要望はXか、GithubのIssueへ  
