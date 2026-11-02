@@ -2,7 +2,13 @@
 ペナントシミュレーション３の続きをバージョンアップしています。
 
 右側のReleaseもしくは以下に最新版があるので、そちらを確認してください。  
-[最新版はこちら](https://github.com/penasimureal/Penanto3/releases/tag/%E3%83%9A%E3%83%8A%E3%83%B3%E3%83%88%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%93)  
+<img width="402" height="155" alt="image" src="https://github.com/user-attachments/assets/88074a3b-a254-48c3-8734-17a5828d7435" />
+
+■適用の仕方
+ダウンロードしたファイルを、ペナントシミュレーション3.4.11フォルダの下においてください。  
+以下のようなイメージです。パッチファイルを起動すれば、ペナントシミュレーション.jarファイルが更新されます。  
+現状は.exeファイルへの対応は未対応です。
+<img width="258" height="222" alt="image" src="https://github.com/user-attachments/assets/067f343f-8831-4de7-a0a9-477a088ddb2f" />
 
 ■要望はXか、GithubのIssueへ  
 X：[こちらから](https://x.com/penasimureal)  
